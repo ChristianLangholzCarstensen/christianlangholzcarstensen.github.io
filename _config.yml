@@ -1,0 +1,9 @@
+title: Christian Langholz Carstensen  
+author: GitHub User
+email: ch.carstensen@econ.ku.dk
+description: > # this means to ignore newlines until "baseurl:"
+  Personal website for Christian Langholz Carstensen
+# social links
+github_username:  ChristianLangholzCarstensen # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
